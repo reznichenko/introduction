@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\HW2\HW2_4\bin\Debug\HW2_4.exe.config
+C:\Users\ASUS\source\repos\HW2\HW2_4\bin\Debug\HW2_4.exe
+C:\Users\ASUS\source\repos\HW2\HW2_4\bin\Debug\HW2_4.pdb
+C:\Users\ASUS\source\repos\HW2\HW2_4\obj\Debug\HW2_4.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\HW2\HW2_4\obj\Debug\HW2_4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HW2\HW2_4\obj\Debug\HW2_4.exe
+C:\Users\ASUS\source\repos\HW2\HW2_4\obj\Debug\HW2_4.pdb
