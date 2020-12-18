@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\HW3\HW3_2\bin\Debug\HW3_2.exe.config
+C:\Users\ASUS\source\repos\HW3\HW3_2\bin\Debug\HW3_2.exe
+C:\Users\ASUS\source\repos\HW3\HW3_2\bin\Debug\HW3_2.pdb
+C:\Users\ASUS\source\repos\HW3\HW3_2\obj\Debug\HW3_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HW3\HW3_2\obj\Debug\HW3_2.exe
+C:\Users\ASUS\source\repos\HW3\HW3_2\obj\Debug\HW3_2.pdb
