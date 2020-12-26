@@ -1,0 +1,9 @@
+ |_Dir:  c:\test
+  |_FIle: test.txt
+  |_Dir:  c:\test\test1
+   |_FIle: test1.txt
+  |_Dir:  c:\test\test1_2
+   |_FIle: test1_2.txt
+   |_Dir:  c:\test\test1_2\test2
+    |_FIle: test22.txt
+    |_FIle: test2_file.txt

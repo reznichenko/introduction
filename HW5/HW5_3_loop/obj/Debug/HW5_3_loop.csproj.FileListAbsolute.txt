@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\HW5\HW5_3_loop\bin\Debug\HW5_3_loop.exe.config
+C:\Users\ASUS\source\repos\HW5\HW5_3_loop\bin\Debug\HW5_3_loop.exe
+C:\Users\ASUS\source\repos\HW5\HW5_3_loop\bin\Debug\HW5_3_loop.pdb
+C:\Users\ASUS\source\repos\HW5\HW5_3_loop\obj\Debug\HW5_3_loop.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\HW5\HW5_3_loop\obj\Debug\HW5_3_loop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HW5\HW5_3_loop\obj\Debug\HW5_3_loop.exe
+C:\Users\ASUS\source\repos\HW5\HW5_3_loop\obj\Debug\HW5_3_loop.pdb

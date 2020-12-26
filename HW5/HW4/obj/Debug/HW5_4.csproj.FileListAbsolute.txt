@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\HW4.exe.config
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\HW4.exe
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\HW4.pdb
+C:\Users\ASUS\source\repos\HW5\HW4\obj\Debug\HW5_4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HW5\HW4\obj\Debug\HW4.exe
+C:\Users\ASUS\source\repos\HW5\HW4\obj\Debug\HW4.pdb
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\System.Text.Json.dll
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\System.Memory.dll
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\source\repos\HW5\HW4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\source\repos\HW5\HW4\obj\Debug\HW5_4.csproj.CopyComplete
+C:\Users\ASUS\source\repos\HW5\HW4\obj\Debug\HW4.exe.config
+C:\Users\ASUS\source\repos\HW5\HW4\obj\Debug\HW5_4.csprojAssemblyReference.cache
